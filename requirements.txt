@@ -41,7 +41,7 @@ pyshorteners
 pyromod
 colorama
 Media
-LazyPrincessbot
+LazyPrincessBot
 
 
   
